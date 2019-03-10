@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "875770325778",
+    "firebase_url": "https://swap-8ecc8.firebaseio.com",
+    "project_id": "swap-8ecc8",
+    "storage_bucket": "swap-8ecc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875770325778:android:686f201a313dbdda",
+        "android_client_info": {
+          "package_name": "com.example.android.clothingswapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875770325778-s8ailpiiqgbui2nng970p3m20ifsj2ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCix6WcoNZr6tztT2l_24dFQ9njWiyWm3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875770325778:android:45a1e177679dd74f",
+        "android_client_info": {
+          "package_name": "com.example.android.clothingswapapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875770325778-s8ailpiiqgbui2nng970p3m20ifsj2ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCix6WcoNZr6tztT2l_24dFQ9njWiyWm3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
